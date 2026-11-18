@@ -43,7 +43,7 @@ Cash-Flow/
 
 ### รันบนเครื่อง
 ```bash
-git clone https://github.com/zetxero-main/Cash-Flow.git
+git clone https://github.com/zetxero-ceo/Cash-Flow.git
 cd Cash-Flow
 ```
 เปิด `index.html` ด้วยเบราว์เซอร์ได้เลย — หรือใช้ dev server เพื่อให้ทำงานได้สมบูรณ์:
@@ -58,7 +58,7 @@ python -m http.server 8000
 รองรับ static hosting ทุกเจ้า — **GitHub Pages**, **Netlify**, **Vercel**, **Cloudflare Pages**
 แค่ push โฟลเดอร์ขึ้นไปก็ใช้งานได้ทันที ไม่ต้อง build
 
-🔗 **ใช้งานออนไลน์:** https://zetxero-main.github.io/Cash-Flow/
+🔗 **ใช้งานออนไลน์:** https://zetxero-ceo.github.io/Cash-Flow/
 
 ---
 
